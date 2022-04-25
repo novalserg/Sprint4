@@ -51,3 +51,4 @@ public class AccountTest {
         assertEquals(status, account.checkNameToEmboss());
     }
 }
+/**/
